@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
-   boards/index.rst
+   boards/index
    usage
+   api
