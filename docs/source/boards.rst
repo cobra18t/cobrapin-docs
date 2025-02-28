@@ -1,5 +1,6 @@
+*****
 Boards
-=====
+*****
 
 CobraPin Main Board
 ------------
@@ -22,6 +23,7 @@ LED Boards
 ------------
 
 Pop/Dome LED Ring
----------------
+^^^^^^^^^^^^
+
 Minidome LED Ring
----------------
+^^^^^^^^^^^^
