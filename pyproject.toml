@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "CobraPin Docs"
-authors = [{name = "cobra18t", email = "cobra18t@lumache"}]
+authors = [{name = "cobra18t"}]
 dynamic = ["version", "description"]
