@@ -18,6 +18,6 @@ Contents
 
 .. toctree::
 
-   boards/index
+   boards
    usage
    api
