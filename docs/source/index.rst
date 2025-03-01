@@ -12,7 +12,7 @@ Don't forget to subscribe to `my Youtube channel <https://www.youtube.com/@thoma
 .. raw:: html
 
    <div style="position: relative; padding-bottom: 5.625%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-   <iframe width=90% height=90% src="https://www.youtube.com/embed/Q1I1oRfgQ8U?si=KNnHaoPuJpnVOdzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width=100% height=100% src="https://www.youtube.com/embed/Q1I1oRfgQ8U?si=KNnHaoPuJpnVOdzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 
 Contents
