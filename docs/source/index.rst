@@ -9,6 +9,10 @@ Welcome to the CobraPin Pinball Controller documentation!
 
 .. raw:: html
    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+      <iframe src="https://www.youtube.com/embed/Q1I1oRfgQ8U?si=KNnHaoPuJpnVOdzk" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin-bottom: 2em;"></iframe>
+   </div>
+
+   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1I1oRfgQ8U?si=KNnHaoPuJpnVOdzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 
