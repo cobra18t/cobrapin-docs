@@ -9,10 +9,10 @@ Welcome to the CobraPin Pinball Controller documentation!
 
 .. raw:: html
 <div class="video-wrapper">
-<iframe width="560" height="315" src="https://youtu.be/Q1I1oRfgQ8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1I1oRfgQ8U?si=KNnHaoPuJpnVOdzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Don't forget to subscribe to `my Youtube channel <www.youtube.com/@thomasfulenwider>`_ for more info and updates!
+Don't forget to subscribe to `my Youtube channel <https://www.youtube.com/@thomasfulenwider>`_ for more info and updates!
 
 Contents
 --------
