@@ -2,9 +2,8 @@
 Boards
 *****
 
-CobraPin Main Board Boards
+:doc:`CobraPin Main Board <Boards/cobrapin_main>`
 =====
-:doc:`Boards/cobrapin_main`
 
 .. image:: images/CobraPinV1_02_isoSmall.JPG
   :width: 80%
