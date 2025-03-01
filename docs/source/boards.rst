@@ -12,7 +12,7 @@ CobraPin Main Board
     * **38 direct switch inputs** <OR> **22 direct inputs** and an **8x8 switch matrix**
     * **Neopixel support** for 512 RGB or RGBW LEDs
     * **12-50V power filter**. Board also provides the common ground for the supplies.
-    * **Fuses''' for solenoid banks and Neopixels
+    * **Fuses** for solenoid banks and Neopixels
     * **Relay Control Output** for common dual relay boards
     * Easy replacement of at-risk components
         * Processor boards are socketed
@@ -21,11 +21,23 @@ CobraPin Main Board
 
 Xpansion Board
 =====
-
+**Features**
+* **8x8 Lamp matrix**
+* **8 coil outputs** for solenoids, flashers, motors, etc.
+* **8 direct switch inputs**
+* **Switch diode protection**
 
 Satellite Board
 =====
+.. image:: images/IMG_0395.JPG
+  :width: 80%
 
+**Features**
+* **23 direct switch inputs**
+* **8 coil outputs** for solenoids, flashers, motors, etc.
+* **Neopixel output** for 256 RGB or RGBW LEDs
+* **5 or 12V** LED power
+* **I/O Protection** for input pins.
 
 SweetLED Board
 =====
