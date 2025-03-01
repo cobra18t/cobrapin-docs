@@ -21,18 +21,22 @@ SweetLED Board
 
 LED Boards
 =====
-
-Pop/Dome LED Ring
+Pop/Dome RGBW LED Ring
 -----
 
-Minidome LED Ring
+Minidome RGB LED Ring
+-----
+
+Insert/GI RGBW LED Stick
 -----
 
 Connector Boards
 =====
-
 Branch Board
 -----
 
 Twig Board
+-----
+
+Serial LED Strip Connector
 -----
