@@ -28,7 +28,7 @@ Xpansion Board
     * **8 direct switch inputs**
     * **Switch diode protection**
 
-Satellite Board
+:doc:`Satellite Board <Boards/satellite>`
 =====
 .. image:: images/IMG_0395.JPG
   :width: 80%
