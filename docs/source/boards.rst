@@ -2,7 +2,8 @@
 Boards
 *****
 
-CobraPin Main Board
+CobraPin Main Board Boards/cobrapin_main
+:doc:`cobrapin_main`
 =====
 .. image:: images/CobraPinV1_02_isoSmall.JPG
   :width: 80%
@@ -22,10 +23,10 @@ CobraPin Main Board
 Xpansion Board
 =====
 **Features**
-* **8x8 Lamp matrix**
-* **8 coil outputs** for solenoids, flashers, motors, etc.
-* **8 direct switch inputs**
-* **Switch diode protection**
+    * **8x8 Lamp matrix**
+    * **8 coil outputs** for solenoids, flashers, motors, etc.
+    * **8 direct switch inputs**
+    * **Switch diode protection**
 
 Satellite Board
 =====
@@ -33,11 +34,11 @@ Satellite Board
   :width: 80%
 
 **Features**
-* **23 direct switch inputs**
-* **8 coil outputs** for solenoids, flashers, motors, etc.
-* **Neopixel output** for 256 RGB or RGBW LEDs
-* **5 or 12V** LED power
-* **I/O Protection** for input pins.
+    * **23 direct switch inputs**
+    * **8 coil outputs** for solenoids, flashers, motors, etc.
+    * **Neopixel output** for 256 RGB or RGBW LEDs
+    * **5 or 12V** LED power
+    * **I/O Protection** for input pins.
 
 SweetLED Board
 =====
