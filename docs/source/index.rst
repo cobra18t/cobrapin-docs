@@ -21,5 +21,3 @@ Contents
 .. toctree::
 
    boards
-   usage
-   api

@@ -4,7 +4,8 @@ Boards
 
 CobraPin Main Board
 =====
-
+.. image:: images/CobraPinV1_02_isoSmall.JPG
+  :width: 70%
 
 Xpansion Board
 =====
@@ -39,4 +40,12 @@ Twig Board
 -----
 
 Serial LED Strip Connector
+-----
+
+NeoSeg Segment Displays
+=====
+8-Digit
+-----
+
+2-Digit
 -----
